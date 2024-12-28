@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AR+Guides&family=Playwrite+TZ+Guides&display=swap');
+
+body {
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url("../../../img/background3.png");
+}
